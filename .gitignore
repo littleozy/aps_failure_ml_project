@@ -89,7 +89,8 @@ target/
 .mypy_cache/
 
 # Data files
-.csv
+*.csv
+*.txt
 
 # HTML
-.html
+*.html
