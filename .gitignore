@@ -94,3 +94,6 @@ target/
 
 # HTML
 *.html
+
+# ignore file
+visualisation.ipynb
